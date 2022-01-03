@@ -62,7 +62,9 @@ Then the averages were replaced with the 10th - 12th grade averages. This gave a
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+It doesn't affect it much when you average based on an adjusted total withouth the 9th graders, but when the 9th graders where accounted in the total students it looked very bad for the school.
 
+![image](https://user-images.githubusercontent.com/92827264/147899068-9e4ead1c-47fe-460b-98d6-5ff37d72e2ed.png)
 
 * How does replacing the ninth-grade scores affect the following:
 
@@ -117,4 +119,4 @@ Then the averages were replaced with the 10th - 12th grade averages. This gave a
       
 ## Summary
 
-
+After replacing the math and reading scores for the ninth grade class of Thomas High School there were the following changes. First, change was the % that passed math. This number went from  93.3% to 66.9%. The second change was the % that passed reading. This number went from 97.3% to 69.6%. Third change was the overall passing %. This went from 90.9% to 65.0%. The last change was the new total that had to be used to get better passing percentages for Thomas High School. To correct the changes that were stated before I had to used a new student total without the 9th graders. The total student changed from 1635 to 1174.
